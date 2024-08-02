@@ -1,0 +1,1 @@
+Hello! I'm a third-year Computer Science student with a strong passion for software development. I am actively developing my skills on the .NET platform and am deeply passionate about this technology. I love exploring new ways to solve problems and am always eager to learn and grow in the field of software engineering. Feel free to check out my repositories and projects!
