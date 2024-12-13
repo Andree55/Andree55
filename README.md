@@ -7,6 +7,6 @@ Hi there! I'm Adrian, a 22-year-old developer passionate about sports, coding, a
 - 🎓 Currently studying Computer Science
 - 💼 Employed and working on personal projects
 - 🏋️‍♂️ Passionate about powerlifting, kickboxing, volleyball, and traveling
-- 🌱 Expanding my knowledge in .NET and microservices architecture
+- 🌱 Expanding my knowledge in .NET
 
 Thanks for visiting my profile! Feel free to check out my projects, and I hope you have a great day! 😊
